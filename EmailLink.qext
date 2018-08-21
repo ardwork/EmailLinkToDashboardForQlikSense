@@ -1,0 +1,14 @@
+{
+	"name": "Email link",
+	"description": "E-mail link to this dashboard including current selections.",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "extension",
+	"author": "Richard Byard",
+	"homepage": "",
+	"preview": "graphics/preview.png",
+	"keywords": "qlik-sense, visualization",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
