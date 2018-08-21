@@ -6,4 +6,4 @@ A simple extension that uses the sendto html command to open the users default m
 This has been cloned from the <a href="http://branch.qlik.com/#!/project/572a2191b19dae70c20cbf96">EmailLinkToDashbaordForQlikSense</a> extension on Branch and simplified so that there are no selections for the user.
 <br>
 <br>
-<img src="https://github.com/ardwork/EmailLinkToDashbaordForQlikSense/blob/master/gif/eMailLink.GIF">
+<img src="https://github.com/ardwork/EmailLinkToDashbaordForQlikSense/blob/master/gif/eMailLink.gif">
